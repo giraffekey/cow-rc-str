@@ -3,5 +3,9 @@ name = "cow-rc-str"
 version = "0.1.0"
 authors = ["Simon Sapin <simon.sapin@exyr.org>"]
 edition = "2018"
+license = "MPL-2.0"
+license-file = "LICENSE"
+description = "Borrow from an original input string and avoid allocating/copying when possible"
+repository = "https://github.com/GiraffeKey/cow-rc-str"
 
 [dependencies]
