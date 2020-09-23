@@ -1,7 +1,7 @@
 [package]
 name = "cow-rc-str"
 version = "0.1.0"
-authors = ["GiraffeKey <giraffekey@tutanota.com>"]
+authors = ["Simon Sapin <simon.sapin@exyr.org>"]
 edition = "2018"
 
 [dependencies]
